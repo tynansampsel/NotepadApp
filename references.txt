@@ -1,0 +1,15 @@
+# how to disable resizeable text area
+https://technicqa.com/how-to-stop-expanding-textarea/#:~:text=How%20to%20stop%20expanding%20textarea%3F%201%20You%20can,tags%20like%20so%3A%20textarea%20%7B%20resize%3A%20none%3B%20%7D
+
+
+# how to disable outline of text area
+https://www.w3docs.com/snippets/css/how-to-remove-and-style-the-border-outline-around-text-input-boxes-in-google-chrome.html#:~:text=Add%20CSS%201%20Set%20the%20border-top-style%2C%20border-right-style%2C%20border-left-style,value%2C%20which%20is%20used%20to%20display%20no%20outline.
+
+
+# how to set securirt policy to allow google fonts
+https://stackoverflow.com/questions/68445115/electron-google-fonts-violates-content-security-policy
+
+
+
+
+

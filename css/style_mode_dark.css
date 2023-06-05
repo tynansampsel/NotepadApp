@@ -1,0 +1,52 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:wght@400;600&display=swap'); */
+
+body{
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+button {
+    background-color: rgb(77, 102, 126);
+    color: rgb(228, 228, 228);
+    box-shadow: 5px 5px 0px 0px rgb(49, 49, 49);
+    font-size: 2em;
+}
+
+button:hover {
+    background-color: rgb(58, 82, 104);
+}
+
+button:active {
+    background-color: rgb(35, 55, 73);
+}
+
+#tool-bar {
+    /* border: 10px solid #617281; */
+    box-shadow: 0px 0px 10px 10px rgba(182, 182, 182, 0.05);
+    background-color: rgba(182, 182, 182, 0.05);
+}
+
+button:disabled {
+    background-color: rgb(57, 73, 87);
+}
+
+#edit-box {
+    box-shadow: 0px 0px 10px 10px rgba(182, 182, 182, 0.02);
+    background-color: rgba(182, 182, 182, 0.02);
+}
+
+#text-area {
+    background-color: rgb(88, 88, 88);
+    box-shadow: 5px 5px 0px 0px rgb(34, 34, 34);
+    color: rgb(228, 228, 228);
+    resize: none;
+}
+
+#text-area:focus {
+    outline: none;  
+}
+

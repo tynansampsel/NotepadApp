@@ -1,0 +1,65 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:wght@400;600&display=swap'); */
+
+body{
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+/*
+228
+43
+
+*/
+
+
+body {
+    background-color: #e4e4e4;
+}
+
+head {
+    background-color: #1f1f1f;
+}
+
+button {
+    background-color: #b8c9da;
+    color: #242424;
+    box-shadow: 5px 5px 0px 0px rgb(124, 124, 124);
+    font-size: 2em;
+}
+
+
+button:hover {
+    background-color: #96a9bb;
+}
+
+button:active {
+    background-color: #748da5;
+}
+
+#tool-bar {
+    /* border: 10px solid #617281; */
+    box-shadow: 0px 0px 10px 10px rgba(182, 182, 182, 0.02);
+    background-color: rgba(182, 182, 182, 0.05);
+}
+
+button:disabled {
+    background-color: rgb(57, 73, 87);
+}
+
+#edit-box {
+    box-shadow: 0px 0px 10px 10px rgba(182, 182, 182, 0.02);
+    background-color: rgba(182, 182, 182, 0.02);
+}
+
+#text-area {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(189, 189, 189);
+    box-shadow: 5px 5px 0px 0px rgb(124, 124, 124);
+    color: #242424;
+    resize: none;
+}
+
+#text-area:focus {
+    outline: none;  
+}
+

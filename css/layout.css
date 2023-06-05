@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+button {
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 130%;
+}
+
+button:hover {
+    margin-top: 5px;
+}
+
+button:active {
+    margin-top: 10px;
+}
+
+
+#tool-bar {
+    margin: 10px;
+    display: flex;
+    justify-content:center;
+    align-items: stretch; /*aligning*/
+    align-content: stretch;
+    width: 100%;
+    height: 50px;
+    
+}
+
+#edit-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    width: 80%;
+}
+
+#text-area {
+    width: 350px;
+    height: 600px;
+}
+
+
+body {
+    -webkit-app-region:drag;
+}
+button, textarea {
+    -webkit-app-region:no-drag;
+}
